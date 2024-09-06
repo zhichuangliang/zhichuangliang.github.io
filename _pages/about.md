@@ -14,4 +14,4 @@ I received my PhD in Cyberspace Security from [School of Computer Science](https
 
 My research focus is on lattice-based cryptography, privacy computing and applied mathematics. 
 
-You can contact me via: [Email](mailto:zcliang19@163.com) / [Github](https://zhichuangliang.github.io).
+You can contact me via: [Email](mailto:zcliang19@163.com) / [Github](https://github.com/zhichuangliang).
