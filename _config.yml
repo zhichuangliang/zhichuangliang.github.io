@@ -78,9 +78,16 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Manuscripts'    
   conferences:
     title: 'Conference Papers'
+  journal:
+    title: 'Journal Articles'
+  article:
+    title: 'Articles'
+  patent:
+    title: 'Patents'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
