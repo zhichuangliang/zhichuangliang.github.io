@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* Ph.D in Cyberspace Security
+* Ph.D. in Cyberspace Security
   * School of Computer Science, Fudan University
   * September 2019 - June 2024
 * B.S. in Mathematics and Applied Mathematics
