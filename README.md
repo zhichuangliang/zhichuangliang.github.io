@@ -1,5 +1,5 @@
 # Homepage
 
-My personal homepage: https://zhichuangliang.github.io
+My personal homepage: [zhichuangliang.github.io](https://zhichuangliang.github.io). 👋👋👋
 
-It is forked from https://academicpages.github.io
+It is forked from [academicpages.github.io](https://academicpages.github.io). 🌱🌱🌱
