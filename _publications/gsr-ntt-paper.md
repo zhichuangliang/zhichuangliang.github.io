@@ -2,7 +2,7 @@
 title: "Generalized Splitting-Ring Number Theoretic Transform"
 collection: publications
 category: article
-permalink: /publication/gsr-ntt-paper
+permalink: /publications/gsr-ntt-paper
 excerpt: ''
 date: 2024-04-08
 venue: 'Frontiers of Computer Science'
