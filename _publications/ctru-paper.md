@@ -2,7 +2,7 @@
 title: "Compact and efficient KEMs over NTRU lattices"
 collection: publications
 category: article
-permalink: /publication/ctru-paper
+permalink: /publications/ctru-paper
 excerpt: ''
 date: 2024-01-02
 venue: 'Computer Standards & Interfaces'
