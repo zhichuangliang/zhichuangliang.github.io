@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Zhichuang Liang's Homepage"
 title_separator          : "-"
-name                     : &name "Zhichuang Liang"
+name                     : &name "Homepage"
 description              : &description "personal description"
 url                      : https://zhichuangliang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
