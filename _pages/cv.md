@@ -26,7 +26,7 @@ redirect_from:
   * Algorithm intern
   * Ant Group 
 
-## Foucs
+## Focus
 * Lattice-based cryptography
 * Privacy computing
 * Applied mathematics
