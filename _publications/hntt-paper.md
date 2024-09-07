@@ -2,7 +2,7 @@
 title: "Number Theoretic Transform: Generalization, Optimization, Concrete Analysis and Applications"
 collection: publications
 category: article
-permalink: /publication/hntt-paper
+permalink: /publications/hntt-paper
 excerpt: ''
 date: 2020-12-11
 venue: 'Proceedings of 16th International Conference on Information Security and Cryptology (Inscrypt 2020)'
