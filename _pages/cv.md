@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cyberspace Security | School of Computer Science, Fudan University | September 2019 - June 2024
-* B.S. in Mathematics and Applied Mathematics | Mao Yisheng Honors College & School of Mathematics, Southwest Jiaotong University | September 2015 - June 2019
+* Ph.D in Cyberspace Security
+  * School of Computer Science, Fudan University
+  * September 2019 - June 2024
+* B.S. in Mathematics and Applied Mathematics
+  * Mao Yisheng Honors College / School of Mathematics, Southwest Jiaotong University
+  * September 2015 - June 2019
 
 Work experience
 ======
