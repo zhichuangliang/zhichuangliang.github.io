@@ -7,5 +7,5 @@ excerpt: ''
 date: 2024-04-08
 venue: 'Frontiers of Computer Science'
 paperurl: 'https://link.springer.com/article/10.1007/s11704-024-3288-9'
-citation: '**Zhichuang Liang**, Yunlei Zhao, Zhenfeng Zhang. Generalized Splitting-Ring Number Theoretic Transform[J]. Frontiers of Computer Science, 2024, 18(4): 184818.'
+citation: '**Zhichuang Liang**, Yunlei Zhao, Zhenfeng Zhang. Generalized Splitting-Ring Number Theoretic Transform. Frontiers of Computer Science, 2024, 18(4): 184818.'
 ---
