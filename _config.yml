@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhichuang Liang's Homepage"
+title                    : "Zhichuang Liang"
 title_separator          : "-"
-name                     : &name "Homepage"
+name                     : &name "Zhichuang Liang"
 description              : &description "personal description"
 url                      : https://zhichuangliang.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "zhichuangliang/zhichuangliang.github.io"
 author:
   # Biographic information
   avatar           : "lzc.png"
-  name             : "Zhichuang Liang"
+  name             : *name  # "Zhichuang Liang"
   bio              : "Senior algorithm engineer in Ant Group. PhD in Cyberspace Security from Fudan University."
   employer         : "Ant Group"
   location         : "Shanghai, China"
