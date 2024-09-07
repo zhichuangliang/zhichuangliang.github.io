@@ -1,5 +1,5 @@
 ---
-title: "Compact and efficient KEMs over NTRU lattices"
+title: "Compact and Efficient KEMs over NTRU Lattices"
 collection: publications
 category: article
 permalink: /publications/ctru-paper
